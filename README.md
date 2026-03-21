@@ -1,5 +1,5 @@
 # About this
-Custom 3-axis CNC designed to cut wood and aluminum. Feel free to copy the design or use it to inspire your own.
+Custom 3-axis CNC designed to cut wood and aluminum. Feel free to utilize the design or have it inspire your own. 
 <img width="980" height="660" alt="image" src="https://github.com/user-attachments/assets/67687472-f971-42ee-b7e9-0468139a5dfe" />
 A step file is provided within the .zip file, and a link to the onshape document is provided below. 
 ## Access to onshape file
