@@ -61,7 +61,7 @@ Link - https://cad.onshape.com/documents/8178628358175c30501daf13/w/5f3b60f47d84
 | 1 | Emergency Stop Button (NC, 22mm) | $8.00 | $8.00 | [Buy](https://www.amazon.com/s?k=emergency+stop+button+22mm+NC+CNC) |
 | 1 | 4-Channel Relay Module | $7.00 | $7.00 | [Buy](https://www.amazon.com/s?k=4+channel+relay+module+5V) |
 | 1 | 5V Cooling Fan (60mm) | $5.00 | $5.00 | [Buy](https://www.amazon.com/s?k=60mm+5V+cooling+fan) |
-| 6 | Mechanical Limit Switch (NO/NC) | $4.00 | $24.00 | [Buy](https://www.amazon.com/s?k=mechanical+limit+switch+NO+NC+CNC) |
+| 3 | Mechanical Limit Switch (NO/NC) | $4.00 | $12.00 | [Buy](https://www.amazon.com/s?k=mechanical+limit+switch+NO+NC+CNC) |
 | 1 | USB Printer Cable (A to B, 6ft) | $5.00 | $5.00 | [Buy](https://www.amazon.com/s?k=USB+printer+cable+A+to+B+6ft) |
 | 1 | Electronics Enclosure (~12×12×6″) | $30.00 | $30.00 | [Buy](https://www.amazon.com/s?k=electronics+enclosure+12x12x6+metal) |
 | 1 set | DIN Rail Terminal Blocks | $15.00 | $15.00 | [Buy](https://www.amazon.com/s?k=DIN+rail+terminal+blocks) |
