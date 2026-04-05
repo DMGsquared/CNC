@@ -122,4 +122,4 @@ Link - https://cad.onshape.com/documents/8178628358175c30501daf13/w/5f3b60f47d84
 | **Grand Total** | **$2,947.42** |
 
 # Contact Me
-Email - DMGsquaredbusiness@gmail.com
+Email - DMGinquires@gmail.com
